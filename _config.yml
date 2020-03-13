@@ -13,7 +13,7 @@ theme_settings:
 
   # Header and footer text
   header_text: >
-     <a href="https://www.dlga.github.io/dlgaadaptaciones/" target="blank">
+     <a href="/dlgaadaptaciones/" target="blank">
      <p>Hemos habilitado una página con la adaptación de cada asignatura tras la cancelación de clases presenciales.</p>
 
      <p>Pulsa aquí para visitarla</p></a>
