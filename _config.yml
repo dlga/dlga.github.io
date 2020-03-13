@@ -16,7 +16,7 @@ theme_settings:
      <a href="/dlgaadaptaciones/" target="blank">
      <p>Hemos habilitado una página con la adaptación de cada asignatura tras la cancelación de clases presenciales.</p>
 
-     <p>Pulsa <div style="display:inline;color:#7EAFD2!important;">aquí</div> para visitarla</p></a>
+     <div style="display:inline!important;"><p>Pulsa <div style="font-weight:bold;display:inline!important;color:#999!important;">aquí</div> para visitarla</p></div></a>
   header_text_feature_image: 
   footer_text: >
 
