@@ -9,7 +9,7 @@ theme_settings:
   avatar: assets/img/avatar.png
   favicon: assets/favicon.ico
   gravatar: # Email MD5 hash
-  description: "Delegación de Alumnos de la Escuela Técnica Superio de Ingeniería Informática, Universidad de Sevilla" # used by search engines
+  description: "Delegación de Alumnos de la Escuela Técnica Superior de Ingeniería Informática, Universidad de Sevilla" # used by search engines
 
   # Header and footer text
   header_text: >
