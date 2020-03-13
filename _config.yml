@@ -1,0 +1,85 @@
+# SITE CONFIGURATION
+baseurl: "/"
+url: "https://www.dlga.github.io"
+
+# THEME-SPECIFIC CONFIGURATION
+theme_settings:
+  # Meta
+  title: dlga
+  avatar: assets/img/avatar.png
+  favicon: assets/favicon.ico
+  gravatar: # Email MD5 hash
+  description: "Delegación de Alumnos de la Escuela Técnica Superio de Ingeniería Informática, Universidad de Sevilla" # used by search engines
+
+  # Header and footer text
+  header_text: >
+     <a href="http://www.avelrom.es/testrepository/" target="blank">
+     <p>Hemos habilitado una página con la adaptación de cada asignatura tras la cancelación de clases presenciales.</p>
+
+     <p>Pulsa aquí para visitarla</p></a>
+  header_text_feature_image: 
+  footer_text: >
+
+  # Icons
+  rss: false
+  email_address: delegacion_etsii@us.es
+  behance:
+  bitbucket:
+  dribbble:
+  facebook:
+  flickr:
+  gitlab:
+  github:
+  gitter:
+  google_plus:
+  instagram: delegacion_etsii
+  linkedin:  # Full URL
+  pinterest:
+  reddit:
+  soundcloud:
+  stack_exchange:  # Full URL
+  steam:
+  tumblr:
+  twitter: delegaETSII
+  wordpress:
+  youtube:
+
+  # Scripts
+  google_analytics: # Tracking ID, e.g. "UA-000000-01"
+  disqus_shortname:
+  katex: true # Enable if using math markup
+  search: false # Enable the search feature
+
+  # Localization strings
+  str_follow_on: "Siguenos en"
+  str_rss_follow: "Follow RSS feed"
+  str_email: "Email"
+  str_next_post: "Siguiente entrada"
+  str_previous_post: "Entrada anterior"
+  str_next_page: "Siguiente"
+  str_previous_page: "Anterior"
+  str_continue_reading: "Seguir Leyendo"
+  str_javascript_required_disqus: "Please enable JavaScript to view comments."
+  str_search_no_results: "No results found."
+
+  # Colours, typography and padding
+  # Open the "_sass > base" folder, and open "_variables.scss"
+  google_fonts: "Source+Sans+Pro:400,700,700italic,400italic"
+
+  # Post navigation
+  post_navigation: false
+
+# PAGINATION
+paginate: 5
+paginate_path: "blog/page:num"
+
+# BUILD SETTINGS
+markdown: kramdown
+highlighter: rouge
+sass:
+  sass_dir: _sass
+  style: :compressed
+plugins: [jekyll-paginate]
+exclude:
+  - Gemfile
+  - Gemfile.lock
