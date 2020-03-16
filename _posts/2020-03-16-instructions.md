@@ -15,6 +15,6 @@ En base a lo anterior, se establecen las siguientes medidas:
 
 **Cuarto**: Se mantiene la suspensión de todas las actividades asociadas a prácticas curriculares y extracurriculares, así como las actividades asociadas al disfrute de becas de formación de estudiantes de grado y máster, desarrolladas dentro de las instalaciones de la Universidad de Sevilla. Las prácticas curriculares y extracurriculares que se lleven a cabo fuera de las instalaciones universitarias se podrán mantener en función de la entidad externa y siempre que se puedan desarrollar por medios telemáticos.
 
-Quinto: Las actividades de evaluación programadas con anterioridad para este periodo en los proyectos docentes podrán mantenerse siempre que sea posible, adoptando, si es necesario, sistemas de evaluación alternativos al examen presencial o proceder a una reprogramación de los mismos en coordinación con los responsables del Centro.
+**Quinto**: Las actividades de evaluación programadas con anterioridad para este periodo en los proyectos docentes podrán mantenerse siempre que sea posible, adoptando, si es necesario, sistemas de evaluación alternativos al examen presencial o proceder a una reprogramación de los mismos en coordinación con los responsables del Centro.
 
 En Sevilla a 15 de marzo de 2020
