@@ -13,9 +13,8 @@ theme_settings:
 
   # Header and footer text
   header_text: >
-     <a href="/dlgaadaptaciones/" target="blank">
-     Hemos habilitado una página con la adaptación de cada asignatura tras la cancelación de clases presenciales. Pulsa <b>aquí</b> para visitarla.</a><br /><br />
-     <a href="/covid/"> También hemos habilitado un apartado donde podéis consultar <b>todos los recursos</b> que se están habilitando para los estudiantes durante la situación de emergencia que podéis visitar haciendo click <b>aquí</b>.</a>
+     Durante el estado de alarma desde Delegación seguimos trabajando para que entre todos se pueda acabar el curso de la mejor forma posible.
+     Puedes ponerte en contacto con nosotros a través del correo electrónico o las redes sociales. Juntos saldremos de esta.
      
   header_text_feature_image: 
   footer_text: >
