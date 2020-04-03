@@ -1,8 +1,8 @@
 ---
 layout: page
-title: <b>Recuros durante Covid-19</b>
+title: Recuros durante Covid-19
 permalink: /covid/
-feature-img: "https://www.solidbackgrounds.com/images/2880x1800/2880x1800-dark-red-solid-color-background.jpg"
+feature-img: "assets/img/fondocov.jpg"
 ---
 
 # Recursos durante la cancelación de clases
