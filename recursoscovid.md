@@ -2,6 +2,7 @@
 layout: page
 title: Recuros durante Covid-19
 permalink: /covid/
+feature-img: "assets/img/fondocovid.jpg"
 ---
 
 # Recursos durante la cancelación de clases
