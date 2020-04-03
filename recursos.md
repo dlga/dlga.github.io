@@ -2,6 +2,7 @@
 layout: page
 title: <b>Recuros durante Covid-19</b>
 permalink: /covid/
+feature-img: "https://www.solidbackgrounds.com/images/2880x1800/2880x1800-dark-red-solid-color-background.jpg"
 ---
 
 # Recursos durante la cancelación de clases
