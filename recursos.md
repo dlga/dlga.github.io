@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Recuros durante Covid-19
+title: <b>Recuros durante Covid-19</b>
 permalink: /covid/
 ---
 
