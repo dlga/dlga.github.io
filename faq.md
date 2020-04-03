@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Preguntas frecuentes Covid-19
+title: FAQ Covid-19
 permalink: /faq/
 feature-img: "assets/img/fondocov.jpg"
 ---
