@@ -15,6 +15,7 @@ theme_settings:
   header_text: >
      <a href="/dlgaadaptaciones/" target="blank">
      Hemos habilitado una página con la adaptación de cada asignatura tras la cancelación de clases presenciales. Pulsa <b>aquí</b> para visitarla.</a><br /><br />
+  header_text: >
      <a href="/covid/"> También hemos habilitado un apartado donde podéis consultar <b>todos los recursos</b> que se están habilitando para los estudiantes durante la situación de emergencia que podéis visitar haciendo click <b>aquí</b>.</a>
      
   header_text_feature_image: 
