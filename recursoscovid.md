@@ -41,7 +41,7 @@ Queremos recordar a los alumnos la **especial importancia durante estos momentos
 
 Va a haber adaptaciones de las distintas asignaturas y nadie mejor que vosotros conoce la situación por la que estáis pasando, por ello es muy importante que contéis con representación.
 
-Pedimos de nuevo disculpas por el retraso que se pueda ocasionar a pesar de que intentamos realizar las tareas de representación con la mayor celeridad y rigor posibles, y es por ello que a muchas de las preguntas que probablemente os estéis planteando la única respuesta que poddemos ofrecer por ahora es que no lo sabemos. Las medidas que se están tomando y se van a tomar son de tal excepcionaliidad que no existe en muchos casos normativa válida a la que referirnos, lo que dificulta nuestra tarea, pero no por ello vamos a obviar ningún caso. Vamos a seguir en contacto continuo con los organismos universitarios pertinentes para poder trasladar la información y mediar en las distintas resoluciones adoptadas a medida que vayan sucediendo.
+Pedimos de nuevo disculpas por el retraso que se pueda ocasionar a pesar de que intentamos realizar las tareas de representación con la mayor celeridad y rigor posibles, y es por ello que a muchas de las preguntas que probablemente os estéis planteando la única respuesta que podemos ofrecer por ahora es que no lo sabemos. Las medidas que se están tomando y se van a tomar son de tal excepcionalidad que no existe en muchos casos normativa válida a la que referirnos, lo que dificulta nuestra tarea, pero no por ello vamos a obviar ningún caso. Vamos a seguir en contacto continuo con los organismos universitarios pertinentes para poder trasladar la información y mediar en las distintas resoluciones adoptadas a medida que vayan sucediendo.
 
 
 
