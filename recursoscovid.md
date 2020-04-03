@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Recuros durante Covid-19
+title: Recursos durante Covid-19
 permalink: /covid/
 feature-img: "assets/img/fondocov.jpg"
 ---
