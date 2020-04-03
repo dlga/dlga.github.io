@@ -5,8 +5,6 @@ permalink: /covid/
 feature-img: "assets/img/fondocov.jpg"
 ---
 
-# Recursos durante la cancelación de clases
-
 Desde la **Delegación de Alumnos de la Escuela Técnica Superior de Ingeniería Informática** queremos antes que nada transmitir nuestro total apoyo a todos los miembros de la Comunidad Universitaria en estos tiempos extraordinarios que estamos viviendo y durante los cuales vamos a seguir ofreciendo nuestros servicios a cualquiera que lo necesite. 
 
 Es posible que suframos cierto retraso debido a que, al ser también alumnos, nos vemos desbordados debido a la carga docente, de representación o personales a las que tenemos que hacer frente. Es por ello que os pedimos encarecidamente que antes de preguntarnos una duda comprobéis que  la respuesta no  la hayamos proporcionado ya a través de esta página o a través del apartado de preguntas frecuentes con el fin de no saturar los canales de contacto, que son:
