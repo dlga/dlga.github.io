@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Cancelación de clases presenciales
-tags: [test, sample]
+tags:
 ---
 Como consecuencia de los efectos de la pandemia del COVID-19 en nuestra comunidad autónoma, las universidades andaluzas, siguiendo las directrices del Gobierno de Andalucía, comunican la suspensión de todas las actividades docentes presenciales (teóricas y prácticas), desde el día 16 de marzo hasta el día 30 de marzo, fecha en la que se evaluará nuevamente la situación.
 
