@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Instrucciones para estudiantes tras estado de alarma
-tags: [test, sample]
+tags: 
 ---
-Durante el periodo en que se ha decretado la situación de estado de alarma en el país, que podrá ser prorrogado de conformidad con las medidas que se vayan adoptando por el Gobierno de España y/o por el Gobierno de la Comunidad Autónoma de Andalucía, todos los centros, servicios y unidades de la Universidad de Sevilla permanecerán cerrados al público y se procurará minimizar, todo lo posible, la presencia de la comunidad universitaria en nuestras instalaciones.
+Durante el periodo en que se ha decretado la situación de estado de alarma en el país, que podrá ser prorrogado de conformidad con las medidas que se vayan adoptando por el Gobierno de España y/o por el Gobierno de la Comunidad Autónoma de Andalucía, todos los centros, servicios y unidades de la Universidad de Sevilla permanecerán cerrados al público y se procurará minimizar, todo lo posible, la presencia de la comunidad universitaria en nuestras instalaciones.
 
 En base a lo anterior, se establecen las siguientes medidas:
 
