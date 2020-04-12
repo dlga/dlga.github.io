@@ -20,3 +20,7 @@ Por otro lado, la situación de pandemia actual, con familiares enfermos, alejad
 Por ello, creemos que, ahora más que nunca, como destacan las rectoras y rectores en el documento marco emitido el sábado 11 de abril, para la adaptación de la docencia y la evaluación tras la situación excepcional provocada por el COVID-19, el pilar del proceso de calificación deberá estar más centrado en procesos de investigación, en el desarrollo de proyectos y entregables, y la entrega de actividades propuestas por el profesorado. Estos sistemas permiten al estudiante la autogestión de su limitado tiempo, además, de no ser imprescindible cierta estabilidad en la conexión de la red, y llevar a cabo una labor de aprendizaje más orientado a la actividad profesional.
 
 Agradecemos a todos los miembros de comunidad universitaria la labor que están desarrollando en estos duros momentos y esperamos que todos se encuentren en las mejores condiciones de salud. Desde la Delegación de Centro de la ETSII, para que juntos podamos superar esta situación de la mejor manera posible, seguiremos trabajando.
+
+
+
+Puedes descargar el documento que hemos elaborado haciendo [click aquí](https://github.com/dlga/dlga.github.io/raw/master/_posts/docs/Comunicado%20Evaluación%20Telemática.pdf).
