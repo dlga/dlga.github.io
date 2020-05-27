@@ -10,8 +10,18 @@ Desde los siguientes enlaces, en el apartado "Planificación de la Enseñanza" e
 
 ### [Grado en Ingeniería de la Salud por la Universidad de Málaga y la Universidad de Sevilla](https://www.us.es/estudiar/que-estudiar/oferta-de-grados/grado-en-ingenieria-de-la-salud-por-la-universidad-de-malaga)
 
+
+
 ### [Grado en Ingeniería Informática-Ingeniería de Computadores](https://www.us.es/estudiar/que-estudiar/oferta-de-grados/grado-en-ingenieria-informatica-ingenieria-de-computadores)
+
+
 
 ### [Grado en Ingeniería Informática-Ingeniería del Software](https://www.us.es/estudiar/que-estudiar/oferta-de-grados/grado-en-ingenieria-informatica-ingenieria-del-software)
 
+
+
 ### [Grado en Ingeniería Informática-Tecnologías Informáticas](https://www.us.es/estudiar/que-estudiar/oferta-de-grados/grado-en-ingenieria-informatica-tecnologias-informaticas)
+
+
+
+[2020-05-27_16-24-53.gif](https://i.imgur.com/nqL9HlI.gifv)
