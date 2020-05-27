@@ -24,4 +24,4 @@ Desde los siguientes enlaces, en el apartado "Planificación de la Enseñanza" e
 
 
 
-[2020-05-27_16-24-53.gif](https://i.imgur.com/nqL9HlI.gifv)
+[2020-05-27_16-24-53.gif](https://i.imgur.com/nqL9HlI.gif)
