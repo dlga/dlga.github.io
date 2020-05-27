@@ -8,6 +8,8 @@ Se han aprobado las adendas para la adaptación de las asignaturas del segundo c
 
 Desde los siguientes enlaces, en el apartado "Planificación de la Enseñanza" encontraréis las asignaturas de cada titulación. Al entrar en ellas, en el apartado de programas y proyectos, podréis ver los proyectos docentes y un enlace para descargar las adendas de cada asignatura.
 
+Si os dais cuenta de que una asignatura no tiene publicada la adenda, hacédnoslo saber a la mayor brevedad posible.
+
 ### [Grado en Ingeniería de la Salud por la Universidad de Málaga y la Universidad de Sevilla](https://www.us.es/estudiar/que-estudiar/oferta-de-grados/grado-en-ingenieria-de-la-salud-por-la-universidad-de-malaga)
 
 
