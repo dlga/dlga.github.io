@@ -29,13 +29,13 @@ Si has sido Delegado de Curso/Grupo y quieres solicitar tu medio crédito de lib
 ```
 3. Desde la Secretaría de Dirección se enviará el certificado a la Secretaría del Centro. **Cuando se haya completado este paso,** tendréis que solicitar vuestro crédito a la Secretaría del Centro a través del siguiente documento:
         
-        [Solicitud de Reconocimiento de Créditos **PDF**](https://www.informatica.us.es/docs/secretaria/impresos/solicitud_rec_creditos_optativos.pdf)
-        [Solicitud de Reconocimiento de Créditos **DOCX**](https://www.informatica.us.es/docs/secretaria/impresos/solicitud_rec_creditos_optativos.docx)
+     [Solicitud de Reconocimiento de Créditos **PDF**](https://www.informatica.us.es/docs/secretaria/impresos/solicitud_rec_creditos_optativos.pdf)
+     [Solicitud de Reconocimiento de Créditos **DOCX**](https://www.informatica.us.es/docs/secretaria/impresos/solicitud_rec_creditos_optativos.docx)
         
   Este documento podréis presentarlo en la Secretaría del Centro de dos formas distintas:
-        *Acudiendo presencialmente al centro mediante cita previa, para lo cual dejamos [aquí](https://www.informatica.us.es/docs/noticias/anuncios/Acceso-citaprevia-Secretaria.pdf) las instrucciones necesarias para acudir.
+        * Acudiendo presencialmente al centro mediante cita previa, para lo cual dejamos [aquí](https://www.informatica.us.es/docs/noticias/anuncios/Acceso-citaprevia-Secretaria.pdf) las instrucciones necesarias para acudir.
               La solicitud de cita previa se realiza a través de [está página](https://institucional.us.es/cprevias/?ce=3)
-        *Presentanto el documento a través de la [Sede Electrónica de la US](https://sede.us.es/web/guest/detalle/-/journal_content/56_INSTANCE_q0YK/10137/27102/?redirect=%2Fweb%2Fguest%2Fhome) con el Certificado digital de la FNMT.
+        * Presentanto el documento a través de la [Sede Electrónica de la US](https://sede.us.es/web/guest/detalle/-/journal_content/56_INSTANCE_q0YK/10137/27102/?redirect=%2Fweb%2Fguest%2Fhome) con el Certificado digital de la FNMT.
         
   En ambos procedimientos debes expresar que el certificado de la Secretaría de Dirección ya ha sido facilitado a la Secretaría del Centro.
         
