@@ -29,8 +29,8 @@ Si has sido Delegado de Curso/Grupo y quieres solicitar tu medio crédito de lib
 ```
 3. Desde la Secretaría de Dirección se enviará el certificado a la Secretaría del Centro. **Cuando se haya completado este paso,** tendréis que solicitar vuestro crédito a la Secretaría del Centro a través del siguiente documento:
         
-     [Solicitud de Reconocimiento de Créditos **PDF**](https://www.informatica.us.es/docs/secretaria/impresos/solicitud_rec_creditos_optativos.pdf)
-     [Solicitud de Reconocimiento de Créditos **DOCX**](https://www.informatica.us.es/docs/secretaria/impresos/solicitud_rec_creditos_optativos.docx)
+     * [Solicitud de Reconocimiento de Créditos **PDF**](https://www.informatica.us.es/docs/secretaria/impresos/solicitud_rec_creditos_optativos.pdf)
+     * [Solicitud de Reconocimiento de Créditos **DOCX**](https://www.informatica.us.es/docs/secretaria/impresos/solicitud_rec_creditos_optativos.docx)
         
   Este documento podréis presentarlo en la Secretaría del Centro de dos formas distintas:
         * Acudiendo presencialmente al centro mediante cita previa, para lo cual dejamos [aquí](https://www.informatica.us.es/docs/noticias/anuncios/Acceso-citaprevia-Secretaria.pdf) las instrucciones necesarias para acudir.
