@@ -7,7 +7,7 @@ tags:
 Si has sido Delegado de Curso/Grupo y quieres solicitar tu medio crédito de libre configuración ECTS por tus actividades de representación estudiantil solo tienes que seguir los siguientes pasos:
 
 1. Deberás solicitar el certificado de tu actividad como Delegado a la Delegación de Alumnos. Para eso, debes enviar un correo electrónico a delegacion_etsii@us.es con la siguiente estructura:
-```
+```javascript
   Asunto: Certificado Delegado de Grupo
   Mensaje:
    Se deberá especificar: 
@@ -17,7 +17,7 @@ Si has sido Delegado de Curso/Grupo y quieres solicitar tu medio crédito de lib
        - Curso académico o cursos en los que has sido Delegado y de los que quieres solicitar tu medio crédito ECTS.
 ```
 2. Una vez que la delegación te haya enviado el certificado, deberás mandar un correo a la Secretaría de Dirección (secdir-eii@us.es) con el certificado como archivo adjunto donde detalles que tras el certificado por parte de la Delegación de tu actividad como Delegado, solicitas la certificación del centro. Aquí os dejamos un correo que podéis usar como plantilla:
-```
+```javascript
   Asunto: Solicitud Certificado Delegado de Grupo
   Mensaje:
      Buenas tardes/días,
