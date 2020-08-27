@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Encuesta de calidad sobre docencia y evaluación telemáticas
-tags: 
+title: Encuestas sobre presencialidad del modelo enseñanza
+tags: Encuesta, Presencialidad, 20-21
 ---
-Desde la Delegación de Alumnos os pedimos que realicéis la siguiente encuesta de calidad para tener una opinión general sobre el modelo de enseñanza en las asignaturas que ya habéis cursado, de cara a la adaptación del próximo curso.
+Desde la Delegación de Alumnos os pedimos que realicéis la siguiente encuesta para tener una opinión general sobre el modelo de enseñanza en las asignaturas que ya habéis cursado, de cara a la adaptación del próximo curso.
 
 Para la realización de los formularios os debéis identificar con vuestro Usuario Virtual de la Universidad de Sevilla.
 
