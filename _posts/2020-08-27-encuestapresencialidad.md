@@ -3,11 +3,15 @@ layout: post
 title: Encuestas sobre presencialidad del modelo enseñanza
 tags: Encuesta, Presencialidad, 20-21
 ---
-Desde la Delegación de Alumnos os pedimos que realicéis la siguiente encuesta para tener una opinión general sobre el modelo de enseñanza en las asignaturas que ya habéis cursado, de cara a la adaptación del próximo curso.
+Desde la Delegación de Alumnos, en vista a la evolución del covid y las posibles consecuencias que este pueda traer para el alumnado, os pedimos que realicéis la siguiente encuesta para tener una opinión general sobre la presencialidad del modelo de enseñanza en las asignaturas que ya habéis cursado, de cara a la adaptación del próximo curso.
 
 Para la realización de los formularios os debéis identificar con vuestro Usuario Virtual de la Universidad de Sevilla.
 
 En caso de que pertenezcáis a varios cursos, podéis realizar distintas encuestas. La información recogida se usará de forma **anónima**, en ningún caso se compartirán nombres u otros datos personales con personas ajenas a delegación.
+
+**El plazo final para rellenar las encuestas es el sábado 29 de agosto del 2020.**
+
+Os agradecemos vuestra colaboración y difusión.
 
 — [Formulario 1º de Salud](https://forms.office.com/Pages/ResponsePage.aspx?id=TmhK77WBHEmpjsezG-bEafWA8C7DM7hLnqkfvNl2AM9UM1Q3Q1FESzZKQzdMNVA1NTZHNjM4WUdRMS4u)
 
