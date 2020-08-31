@@ -21,11 +21,11 @@ Para la realización de los exámenes presenciales, se ha  elaborado unas instru
   
  El protocolo a seguir en caso de que algún estudiante sospeche sufrir coronavirus, o tenga síntomas compatibles,  puede resumirse como sigue:
  
-   1.   Deben seguirse en todo momento las recomendaciones sanitarias. Si se le recomienda periodo de aislamiento preventivo, el estudiante NO puede acudir al centro, aunque no tenga síntomas.
+   1. Deben seguirse en todo momento las recomendaciones sanitarias. Si se le recomienda periodo de aislamiento preventivo, el estudiante NO puede acudir al centro, aunque no tenga síntomas.
 
-   2.   El estudiante debe comunicar al Seprus (seprus@us.es) toda la documentación que demuestre su situación médica, así como su teléfono y correo electrónico de contacto. Será el Seprus quien se encargue del seguimiento de su caso y de comunicarle en qué momento puede volver a acudir al centro. 
+   2. El estudiante debe comunicar al Seprus (seprus@us.es) toda la documentación que demuestre su situación médica, así como su teléfono y correo electrónico de contacto. Será el Seprus quien se encargue del seguimiento de su caso y de comunicarle en qué momento puede volver a acudir al centro. 
    
-   3.   Respecto a la realización del examen, la situación se asimila al caso del artículo 33 del Reglamento de Estudiantes: “Cambio  de  la  fecha  de  evaluación  en  casos excepcionales”. De común acuerdo profesor-alumno, con la colaboración del centro, se acordará una nueva fecha de realización del examen.
+   3. Respecto a la realización del examen, la situación se asimila al caso del artículo 33 del Reglamento de Estudiantes: “Cambio  de  la  fecha  de  evaluación  en  casos excepcionales”. De común acuerdo profesor-alumno, con la colaboración del centro, se acordará una nueva fecha de realización del examen.
 
 	
 Naturalmente, estaremos atentos a cualquier novedad o cambio en las instrucciones de las autoridades sanitarias y académicas, que comunicaremos en cuanto tengamos noticias.
