@@ -10,7 +10,7 @@ Hemos organizado los programas y proyectos docentes en está página: [DLGA ADAP
 
 En el apartado de ***Criterios de calificación del grupo*** encontrarás un apartado específico bajo el título:
 
-##### PLAN DE CONTIGENCIA PARA EL CURSO 2020/21
+#### PLAN DE CONTIGENCIA PARA EL CURSO 2020/21
 
 En este apartado se pueden detallar de 2 a 3 escenarios:
 
