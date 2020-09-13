@@ -6,11 +6,7 @@ tags:
 
 Sabemos que las menciones de Tecnologías de la Información pueden resultar algo confusas o poco definidas para algunas personas.
 
-El coordinador del grado - José Luis Ruiz Reina - como le ha sido imposible organizar una reunión por los motivos que todos conocemos
-
-## Mandemia Mundial...
-
-ha preparado estos tres videos para resolver cualquier duda que pueda surgir.
+El coordinador del grado - José Luis Ruiz Reina - como le ha sido imposible organizar una reunión presencial, ha preparado estos tres videos para resolver cualquier duda que pueda surgir: 
 
 ## Parte 1: Descripción de las especialidades:
 
