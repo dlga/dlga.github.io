@@ -19,20 +19,20 @@ El  impreso  para  solicitar  la  permuta  de  grupo  deberá  ser  cumplimentad
 Las  solicitudes(acompañadas  de  cuanta  documentación  justificativa  sea  pertinente)deberán entregarseen  la  Secretaría  del  Centro.  Este  año,  de  manera  excepcional, adicionalmente también  se  enviaránpor correo  electrónico  a subdir-ordenacion-academica-eii@us.es ,  con  el asunto “Permuta” seguido de “Apellidos Nombre” del interesado.
 
 Fechas de interés:
-- Plazosde  solicitud  de  permutas(o  se  admitirá  ninguna  solicitud  de  permuta  fuera  de estas ventanas, salvo aquellasaque obligue la normativa):
-  - Del 14 de septiembre al 13de octubre de 2020, ambos inclusive.
-  - Del  15 al 29 de enero de 2021, ambos inclusive.
+* Plazos de  solicitud  de  permutas(o  se  admitirá  ninguna  solicitud  de  permuta  fuera  de estas ventanas, salvo aquellasaque obligue la normativa):
+  * Del 14 de septiembre al 13de octubre de 2020, ambos inclusive.
+  * Del  15 al 29 de enero de 2021, ambos inclusive.
 
--Plazo para desistir de una solicitud de permuta:
-  - Para aquellas cursadas con antelación, hasta el 29 de septiembre.
-  - Con generalidad, último día del plazode solicitud aplicable.
+* Plazo para desistir de una solicitud de permuta:
+  * Para aquellas cursadas con antelación, hasta el 29 de septiembre.
+  * Con generalidad, último día del plazode solicitud aplicable.
 
--Fechas de resoluciones provisionales:
-  - Para aquellas cursadas hasta el 29 de septiembre: viernes 2 de octubre.
-  - Con generalidad, viernes 16 de octubre y viernes 12 de febrero.
-  
--Fechas de resoluciones definitivas.
-  - Viernes 23 de octubre y viernes 19 de febrero.
+* Fechas de resoluciones provisionales:
+  * Para aquellas cursadas hasta el 29 de septiembre: viernes 2 de octubre.
+  * Con generalidad, viernes 16 de octubre y viernes 12 de febrero.
+
+* Fechas de resoluciones definitivas.
+  * Viernes 23 de octubre y viernes 19 de febrero.
 
 Todas las resolucionesse publicaránen el tablón de Secretaría.
 
