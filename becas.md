@@ -22,6 +22,8 @@ Estamos a la espera de que se confirmen en breves nuevas ayudas y becas que reco
 
 Tussam acuerda compensar a los usuarios y usuarias de la tarjeta estudiante por el periodo del estado de alarma.
 
-Si queréis solicitar la compensación rellenad el siguiente [formulario](https://www.tussam.es/es/formulario-tarjeta-estudiantes-compensacion).
 
-Para más información el [siguiente enlace](https://t.co/wpUObwtvza?amp=1).
+Si queréis solicitar la compensación rellenad el siguiente [formulario](https://www.tussam.es/es/formulario-tarjeta-estudiantes-compensacion)
+
+
+Para más información el [siguiente enlace](https://t.co/wpUObwtvza?amp=1)
