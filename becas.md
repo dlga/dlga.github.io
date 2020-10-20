@@ -4,7 +4,8 @@ title: Becas y Ayudas
 permalink: /becas/
 feature-img: "assets/img/fondocov.jpg"
 ---
-
+<p style="text-align: center;">Solicitud de prestamos de ordenadores<p>
+  
 Aquellos alumnos que no dispongan de ningún dispositivo a través del que continuar la docencia telemática o tengan problemas de acceso a internet deben escribirnos un correo a **delegacion_etsii@us.es** contándonos cuál es tu situación e indicando los siguientes datos:
 
 — Nombre y apellidos
