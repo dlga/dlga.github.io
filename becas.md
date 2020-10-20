@@ -16,8 +16,9 @@ Aquellos alumnos que no dispongan de ningún dispositivo a través del que conti
 Toda la información será tratada de forma confidencial y únicamente se remitirá al organismo universitario correspondiente para que se encargue de tramitar la petición.
 
 Estamos a la espera de que se confirmen en breves nuevas ayudas y becas que recogeremos en este aparado.
-
-
+<br>
+<br>
+<br>
 <div align="center"><b> Compensación del bonobus de TUSSAM </b></div>
 <br>
 
