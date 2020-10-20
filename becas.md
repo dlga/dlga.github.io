@@ -28,4 +28,4 @@ Tussam acuerda compensar a los usuarios y usuarias de la tarjeta estudiante por 
 Si queréis solicitar la compensación rellenad el siguiente [formulario](https://www.tussam.es/es/formulario-tarjeta-estudiantes-compensacion)
 
 
-Para más información el [siguiente enlace](https://t.co/wpUObwtvza?amp=1)
+Para más información pincha en el [siguiente enlace](https://t.co/wpUObwtvza?amp=1)
