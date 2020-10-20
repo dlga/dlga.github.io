@@ -4,8 +4,7 @@ title: Becas y Ayudas
 permalink: /becas/
 feature-img: "assets/img/fondocov.jpg"
 ---
-<p style="text-align: center;">Solicitud de prestamos de ordenadores<p>
-  
+
 Aquellos alumnos que no dispongan de ningún dispositivo a través del que continuar la docencia telemática o tengan problemas de acceso a internet deben escribirnos un correo a **delegacion_etsii@us.es** contándonos cuál es tu situación e indicando los siguientes datos:
 
 — Nombre y apellidos
@@ -19,7 +18,7 @@ Toda la información será tratada de forma confidencial y únicamente se remiti
 Estamos a la espera de que se confirmen en breves nuevas ayudas y becas que recogeremos en este aparado.
 
 
-<p style="text-align: center;">Compensación del bonobus de TUSSAM<p>
+<p style="text-align: center;">**Compensación** **del** **bonobus** **de** **TUSSAM**<p>
 
 Tussam acuerda compensar a los usuarios y usuarias de la tarjeta estudiante por el periodo del estado de alarma.
 
