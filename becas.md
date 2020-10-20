@@ -18,7 +18,7 @@ Toda la información será tratada de forma confidencial y únicamente se remiti
 Estamos a la espera de que se confirmen en breves nuevas ayudas y becas que recogeremos en este aparado.
 
 
-<div align="center"<b> Compensación del bonobus de TUSSAM </b></div>
+<div align="center"><b> Compensación del bonobus de TUSSAM </b></div>
 <br>
 
 Tussam acuerda compensar a los usuarios y usuarias de la tarjeta estudiante por el periodo del estado de alarma.
