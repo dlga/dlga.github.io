@@ -17,13 +17,11 @@ Toda la información será tratada de forma confidencial y únicamente se remiti
 
 Estamos a la espera de que se confirmen en breves nuevas ayudas y becas que recogeremos en este aparado.
 
-COMPENSACIÓN DEL BONOBÚS DE TUSSAM
 
-Ya está el formulario de solicitud de compensación por no haber usado la Tarjeta de Tussam.
- 
-Al parecer si has hecho uso de la tarjeta durante el estado de alarma no puedes disfrutar de esta compensación, hecho que vamos a tratar con la Defensora de la Ciudadanía.
- 
-Aun así aquél que por cualquier motivo no haya hecho uso de la tarjeta podrá hacer uso de esta compensación de manera inmediata.
+<p style="text-align: center;">Compensación del bonobus de TUSSAM<p>
 
-Para más información pinchad en el [siguiente enlace](https://twitter.com/twitCADUS/status/1318478766260293633).
+Tussam acuerda compensar a los usuarios y usuarias de la tarjeta estudiante por el periodo del estado de alarma.
 
+Si queréis solicitar la compensación rellenad el siguiente [formulario](https://www.tussam.es/es/formulario-tarjeta-estudiantes-compensacion).
+
+Para más información el [siguiente enlace](https://t.co/wpUObwtvza?amp=1).
