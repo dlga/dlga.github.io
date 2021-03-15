@@ -6,7 +6,7 @@ url: "https://www.dlga.github.io"
 theme_settings:
   # Meta
   title: dlga
-  avatar: assets/img/lgtbsf.png
+  avatar: assets/img/avatar.png
   favicon: assets/favicon.ico
   gravatar: # Email MD5 hash
   description: "Delegación de Alumnos de la Escuela Técnica Superior de Ingeniería Informática, Universidad de Sevilla" # used by search engines
