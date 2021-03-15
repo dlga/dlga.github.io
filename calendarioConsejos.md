@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Calendario
-permalink: /departamentos/
+permalink: /calendario/
 feature-img: "assets/img/fondocov.jpg"
 ---
 
