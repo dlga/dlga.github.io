@@ -9,7 +9,6 @@ Tras la imposibilidad de poder convocar unas elecciones formales a Delegados de 
 Debido a que este año no se podrá ocupar la figura de Delegado de Grupo, tampoco se podrán otorgar los respectivos créditos asociados al cargo. Junto con la dirección del centro estamos trabajando para darle a las personas interesadas la posibilidad de conseguir lo créditos mediante una actividad similar de formación.
 
 
-<center>
 
 | Presentación de Candidaturas |  15-22 de marzo 2021  |
 |:----------------------------:|:---------------------:|
@@ -23,7 +22,7 @@ Debido a que este año no se podrá ocupar la figura de Delegado de Grupo, tampo
 |  Reclamaciones a resultados  |  12-16 de abril 2021  |
 |    Resultados Definitivos    |    19 de abril 2021   |
 
-</center>
+
 
 Para poder presentar vuestras candidaturas, rellenad [este formulario](https://forms.office.com/Pages/ResponsePage.aspx?id=TmhK77WBHEmpjsezG-bEafWA8C7DM7hLnqkfvNl2AM9UQzNYRUczR0FZMjFaRDRNNzcxVERSQlJMVC4u) con vuestra información y la de vuestros compañeros en caso de que penséis presentar una candidatura colegiada de hasta 3 personas.
 
