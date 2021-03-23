@@ -52,8 +52,10 @@ Una vez completado el proceso de candidaturas, se hace constancia de las siguien
 |   Ingeniería de la Salud   |   1º  |   1   | Candidato |
 |   Ingeniería de la Salud   |   1º  |   2   | Candidato |
 |   Ingeniería de la Salud   |   2º  | 1 y 2 | Araceli María Bénitez Díaz, Ishika Gupta Gupta y Alejandro García Linares|
-|   Ingeniería de la Salud   |   3º  | IB y IC | Jesús Vías Torres y Cristian Antonio Cabello Arango |
+|   Ingeniería de la Salud   |   3º  |   IB  | Jesús Vías Torres y Cristian Antonio Cabello Arango |
+|   Ingeniería de la Salud   |   3º  |   IC  | Candidato |
 |   Ingeniería de la Salud   |   4º  |   IB  | Hanaa Mehdi Sefiani|
+|   Ingeniería de la Salud   |   4º  |   IC  | Candidato |
 
 
 
