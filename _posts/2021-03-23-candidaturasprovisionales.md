@@ -20,7 +20,7 @@ Una vez completado el proceso de candidaturas, se hace constancia de las siguien
 |         Titulación         | Curso | Grupo  | Candidato|
 |:--------------------------:|:-----:|:------:|:--------:|
 |   Ingeniería del Software  |   1º  |    1   | José María García Berdejo|
-|   Ingeniería del Software  |   1º  |    2   | Candidato|
+|   Ingeniería del Software  |   1º  |    2   | Sergio Santiago Sánchez  |
 |   Ingeniería del Software  |   1º  |    3   | Candidato|
 |   Ingeniería del Software  |   1º  |    4   | Pablo Periañez Cabrero|
 |   Ingeniería del Software  |   1º  | Inglés | Juan Pedro Gálvez López|
@@ -36,7 +36,7 @@ Una vez completado el proceso de candidaturas, se hace constancia de las siguien
 
 |         Titulación         | Curso | Grupo |                Candidato               |
 |:--------------------------:|:-----:|:-----:|:--------------------------------------:|
-|  Tecnologías Informáticas  |   1º   |   1   | Candidato|
+|  Tecnologías Informáticas  |   1º   |   1   | Salomé Garrido Sosa |
 |  Tecnologías Informáticas  |   1º   |   2   | Candidato|
 |  Tecnologías Informáticas  |   1º   |   3   | Candidato|
 |  Tecnologías Informáticas  |   1º   |   4   | Candidato|
@@ -44,7 +44,7 @@ Una vez completado el proceso de candidaturas, se hace constancia de las siguien
 |  Tecnologías Informáticas  |   2º   |   2   | Candidato|
 |  Tecnologías Informáticas  |   2º   |   3   | Candidato|
 |  Tecnologías Informáticas  |   3º   |   1   | Jose Pablo Carrasco Cobos y Ana María Reguera Bueno|
-|  Tecnologías Informáticas  |   4º   |   1   | Candidato|
+|  Tecnologías Informáticas  |   4º   |   1   | Adrià León García |
 
 |         Titulación         | Curso | Grupo |               Candidato                |
 |:--------------------------:|:-----:|:-----:|:--------------------------------------:|
