@@ -38,7 +38,7 @@ Una vez completado el proceso de candidaturas, se hace constancia de las siguien
 |:--------------------------:|:-----:|:-----:|:--------------------------------------:|
 |  Tecnologías Informáticas  |   1º   |   1   | Salomé Garrido Sosa |
 |  Tecnologías Informáticas  |   1º   |   2   | Candidato|
-|  Tecnologías Informáticas  |   1º   |   3   | Candidato|
+|  Tecnologías Informáticas  |   1º   |   3   | Pablo Diego Acosta |
 |  Tecnologías Informáticas  |   1º   |   4   | Candidato|
 |  Tecnologías Informáticas  |   2º   |   1   | Candidato|
 |  Tecnologías Informáticas  |   2º   |   2   | Candidato|
