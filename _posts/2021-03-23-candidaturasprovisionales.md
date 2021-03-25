@@ -32,7 +32,7 @@ Una vez completado el proceso de candidaturas, se hace constancia de las siguien
 |   Ingeniería del Software  |   3º  |    1   |  Nicolas de Ory Carmona y Beatriz María Beltrán Álvarez|
 |   Ingeniería del Software  |   3º  |    2   | Candidato|
 |   Ingeniería del Software  |   3º  |    3   |  Marina Ramiro Fernández |
-|   Ingeniería del Software  |   4º  |  1 y 2 | Yoana Dimitrova Penkova |
+|   Ingeniería del Software  |   4º  |    1   | Yoana Dimitrova Penkova |
 
 |         Titulación         | Curso | Grupo |                Candidato               |
 |:--------------------------:|:-----:|:-----:|:--------------------------------------:|
@@ -44,7 +44,6 @@ Una vez completado el proceso de candidaturas, se hace constancia de las siguien
 |  Tecnologías Informáticas  |   2º   |   2   | Candidato|
 |  Tecnologías Informáticas  |   2º   |   3   | Candidato|
 |  Tecnologías Informáticas  |   3º   |   1   | Jose Pablo Carrasco Cobos y Ana María Reguera Bueno|
-|  Tecnologías Informáticas  |   3º   |   2   | Candidato|
 |  Tecnologías Informáticas  |   4º   |   1   | Candidato|
 
 |         Titulación         | Curso | Grupo |               Candidato                |
