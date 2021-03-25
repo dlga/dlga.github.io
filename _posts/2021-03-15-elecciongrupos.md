@@ -10,11 +10,9 @@ Debido a que este año no se podrá ocupar la figura de Delegado de Grupo, tampo
 
 
 
-| Presentación de Candidaturas |  15-22 de marzo 2021  |
+| Presentación de Candidaturas |  15-29 de marzo 2021  |
 |:----------------------------:|:---------------------:|
-|  Publicación de Candidaturas |  23-24 de marzo 2021  |
-| Reclamaciones a Candidaturas |  25-26 de marzo 2021  |
-| Resolución de Reclamaciones  |   29 de marzo 2021    |
+| Candidaturas provisionales   |   29 de marzo 2021    |
 |   Candidaturas definitivas   |   30 de marzo 2021    |
 |      Campaña Electoral       | 31 marzo-6 abril 2021 |
 |     Jornada de votación      |   7-8 de abril 2021   |
