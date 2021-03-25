@@ -20,7 +20,7 @@ Una vez completado el proceso de candidaturas, se hace constancia de las siguien
 |         Titulación         | Curso | Grupo  | Candidato|
 |:--------------------------:|:-----:|:------:|:--------:|
 |   Ingeniería del Software  |   1º  |    1   | José María García Berdejo|
-|   Ingeniería del Software  |   1º  |    2   | Sergio Santiago Sánchez  |
+|   Ingeniería del Software  |   1º  |    2   | Sergio Santiago Sánchez /vs/ Tadeo Cabrera Gómez |
 |   Ingeniería del Software  |   1º  |    3   | Candidato|
 |   Ingeniería del Software  |   1º  |    4   | Pablo Periañez Cabrero|
 |   Ingeniería del Software  |   1º  | Inglés | Juan Pedro Gálvez López|
