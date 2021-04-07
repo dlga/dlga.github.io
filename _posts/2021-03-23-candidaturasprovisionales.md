@@ -22,9 +22,9 @@ Una vez completado el proceso de candidaturas, se hace constancia de las siguien
 |   Ingeniería del Software  |   1º  |    1   | José María García Berdejo|
 |   Ingeniería del Software  |   1º  |    2   | Sergio Santiago Sánchez /vs/ Tadeo Cabrera Gómez |
 |   Ingeniería del Software  |   1º  |    3   | Candidato|
-|   Ingeniería del Software  |   1º  |    4   | Pablo Periañez Cabrero vs Fernando José Mateos Gómez|
+|   Ingeniería del Software  |   1º  |    4   | Pablo Periañez Cabrero /vs/ Fernando José Mateos Gómez|
 |   Ingeniería del Software  |   1º  | Inglés | Juan Pedro Gálvez López|
-|   Ingeniería del Software  |   2º  |    1   | Candidato|
+|   Ingeniería del Software  |   2º  |    1   | Rosa María Molina Arregui, Noelia López Durán y Jose María Delgado Sanchez|
 |   Ingeniería del Software  |   2º  |    2   | Manuel González Cáceres, Marina Ramiro Fernández y Marcos Olmedo Marín|
 |   Ingeniería del Software  |   2º  |    3   | Juan Antonio Ortiz Guerra |
 |   Ingeniería del Software  |   2º  |    4   | Francisco Javier Vázquez Monge |
