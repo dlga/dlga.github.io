@@ -1,28 +1,28 @@
 ---
 layout: post
-title: Candidaturas Provisionales
+title: Candidaturas Definitivas
 tags: 
 ---
 
-Tras la imposibilidad de poder convocar unas elecciones formales a Delegados de Grupos, desde delegación queremos lanzar el proceso de "Elección a Representantes de Grupo" con el fin de relevar a los compañeros de años anteriores si así lo desean.
+Tras la imposibilidad de poder convocar unas elecciones formales a Delegados de Grupos, desde delegación queremos lanzar el proceso de "Elección a Representantes de Grupo" con el fin de relevar a los compañeros de años anteriores.
 
-Una vez completado el proceso de candidaturas, se hace constancia de las siguientes candidaturas provisionales:
+Una vez completado el proceso de candidaturas, revisión y votación, se hace constancia de las siguientes candidaturas definitivas:
 
 
 |         Titulación         | Curso | Grupo |     Candidato     |
 |:--------------------------:|:-----:|:-----:|:-----------------:|
 | Ingeniería de Computadores |   1º  |   1   |     Candidato     |
 | Ingeniería de Computadores |   1º  | 2 y 3 | Rafael Barroso Castallo |
-| Ingeniería de Computadores |   2º  |   1   |     Candidato     |
+| Ingeniería de Computadores |   2º  |   1   | María Jesús Vega Vázquez y Alejandro Domínguez Muñoz|
 | Ingeniería de Computadores |   3º  |   1   | Alvaro Serrano Gullon |
 | Ingeniería de Computadores |   4º  |   1   | José Joaquín Comitre Palacios |
 
 |         Titulación         | Curso | Grupo  | Candidato|
 |:--------------------------:|:-----:|:------:|:--------:|
 |   Ingeniería del Software  |   1º  |    1   | José María García Berdejo|
-|   Ingeniería del Software  |   1º  |    2   | Sergio Santiago Sánchez /vs/ Tadeo Cabrera Gómez |
+|   Ingeniería del Software  |   1º  |    2   | Sergio Santiago Sánchez /vs/ *Tadeo Cabrera Gómez* |
 |   Ingeniería del Software  |   1º  |    3   | Candidato|
-|   Ingeniería del Software  |   1º  |    4   | Pablo Periañez Cabrero /vs/ Fernando José Mateos Gómez|
+|   Ingeniería del Software  |   1º  |    4   | Pablo Periañez Cabrero /vs/ *Fernando José Mateos Gómez*|
 |   Ingeniería del Software  |   1º  | Inglés | Juan Pedro Gálvez López|
 |   Ingeniería del Software  |   2º  |    1   | Rosa María Molina Arregui, Noelia López Durán y Jose María Delgado Sanchez|
 |   Ingeniería del Software  |   2º  |    2   | Manuel González Cáceres, Marina Ramiro Fernández y Marcos Olmedo Marín|
@@ -34,6 +34,11 @@ Una vez completado el proceso de candidaturas, se hace constancia de las siguien
 |   Ingeniería del Software  |   3º  | Inglés | Candidato|
 |   Ingeniería del Software  |   3º  |    3   |  Marina Ramiro Fernández |
 |   Ingeniería del Software  |   4º  |    1   | Yoana Dimitrova Penkova |
+
+Resultados de votación 1º G2: Sergio Santiago Sánchez (5 votos), Tadeo Cabrera Gómez (25 votos).
+
+Resultados de votación 1º G4: Pablo Periañez Cabrero (3 votos), Fernando José Mateos Gómez (11 votos)
+
 
 |         Titulación         | Curso | Grupo |                Candidato               |
 |:--------------------------:|:-----:|:-----:|:--------------------------------------:|
