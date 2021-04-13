@@ -35,9 +35,9 @@ Una vez completado el proceso de candidaturas, revisión y votación, se hace co
 |   Ingeniería del Software  |   3º  |    3   |  Marina Ramiro Fernández |
 |   Ingeniería del Software  |   4º  |    1   | Yoana Dimitrova Penkova |
 
-Resultados de votación 1º G2: Sergio Santiago Sánchez (5 votos), Tadeo Cabrera Gómez (25 votos).
+Resultados de votación 1º G2: Sergio Santiago Sánchez (5 votos), **Tadeo Cabrera Gómez (25 votos)**.
 
-Resultados de votación 1º G4: Pablo Periañez Cabrero (3 votos), Fernando José Mateos Gómez (11 votos)
+Resultados de votación 1º G4: Pablo Periañez Cabrero (3 votos), **Fernando José Mateos Gómez (11 votos)**
 
 
 |         Titulación         | Curso | Grupo |                Candidato               |
